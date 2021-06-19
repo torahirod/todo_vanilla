@@ -23,8 +23,13 @@ button:hover {
   cursor: pointer;
 }
 
-/* li {
-  margin-right: 8px;
+li {
+  /* margin-right: 8px; */
+  padding: 0;
+}
+
+/* ul {
+  margin-bottom: 200px;
 } */
 
 .input-area {
